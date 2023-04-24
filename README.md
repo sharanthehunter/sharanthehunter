@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharanthehunter" alt="sharanthehunter" /></a> </p>
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
+- 🌱 I’m currently learning **WEB APP SECURITY**
 
 - 👯 I’m looking to collaborate on **CYBER SECURITY PROJECTS**
 
